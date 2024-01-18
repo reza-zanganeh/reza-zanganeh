@@ -20,7 +20,7 @@ As a programmer, I enjoy build new thing to make change.
 ### Talking about Personal Stuffs:
 
 - 👨‍🎓 I'm a **Computer Engineering Student**
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on Personal development
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
   - Nest Js
